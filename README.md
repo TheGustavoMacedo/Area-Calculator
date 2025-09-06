@@ -4,4 +4,5 @@ A simple Python project, created in just a few minutes, to calculate the area of
 - Rectangle
 - Square
 - Circle
+- 
 This project is part of a Python learning path.
